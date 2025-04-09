@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+
+# Compressed image output
+compressed_images/
+
+# Mac system files
+.DS_Store
+
+# VSCode config
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
